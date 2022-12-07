@@ -1,0 +1,15 @@
+/Users/kataryzova/Desktop/Seminar8 C#/Task59/bin/Debug/net6.0/Task59
+/Users/kataryzova/Desktop/Seminar8 C#/Task59/bin/Debug/net6.0/Task59.deps.json
+/Users/kataryzova/Desktop/Seminar8 C#/Task59/bin/Debug/net6.0/Task59.runtimeconfig.json
+/Users/kataryzova/Desktop/Seminar8 C#/Task59/bin/Debug/net6.0/Task59.dll
+/Users/kataryzova/Desktop/Seminar8 C#/Task59/bin/Debug/net6.0/Task59.pdb
+/Users/kataryzova/Desktop/Seminar8 C#/Task59/obj/Debug/net6.0/Task59.csproj.AssemblyReference.cache
+/Users/kataryzova/Desktop/Seminar8 C#/Task59/obj/Debug/net6.0/Task59.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kataryzova/Desktop/Seminar8 C#/Task59/obj/Debug/net6.0/Task59.AssemblyInfoInputs.cache
+/Users/kataryzova/Desktop/Seminar8 C#/Task59/obj/Debug/net6.0/Task59.AssemblyInfo.cs
+/Users/kataryzova/Desktop/Seminar8 C#/Task59/obj/Debug/net6.0/Task59.csproj.CoreCompileInputs.cache
+/Users/kataryzova/Desktop/Seminar8 C#/Task59/obj/Debug/net6.0/Task59.dll
+/Users/kataryzova/Desktop/Seminar8 C#/Task59/obj/Debug/net6.0/refint/Task59.dll
+/Users/kataryzova/Desktop/Seminar8 C#/Task59/obj/Debug/net6.0/Task59.pdb
+/Users/kataryzova/Desktop/Seminar8 C#/Task59/obj/Debug/net6.0/Task59.genruntimeconfig.cache
+/Users/kataryzova/Desktop/Seminar8 C#/Task59/obj/Debug/net6.0/ref/Task59.dll
